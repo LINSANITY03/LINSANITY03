@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LINSANITY03
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning flutter/django
+- 👋 Hi, I’m @LINSANITY03 aka SANITY.
+- 👀 I’m interested in new stuff.
+- 🌱 I’m currently learning anything/everything that helps me advance.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pujantamang92@gmail.com
 
