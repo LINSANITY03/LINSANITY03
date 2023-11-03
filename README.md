@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LINSANITY03&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LINSANITYO3)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LINSANITY03)](https://github.com/anuraghazra/github-readme-stats)
