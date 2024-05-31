@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @LINSANITY03 aka Pujan Thing.
 - 👀 I’m interested in creating software having real world impact and knowing how things work.
-- 🌱 I’m currently working on building AI agents with [robsca](https://github.com/robsca) on [Duck-Soup](https://github.com/duck-soup).
+- 🌱 I’m currently working on building AI agents with [robsca](https://github.com/robsca)
 - 💞️ I’m looking to collaborate on open-source projects with interest in Finance, AI/ML as well as blockchains.
 - One of my new todo is to learn Go, as I want to know more about network servers 😋.
 - 📫 How to reach me pujantamang92@gmail.com
