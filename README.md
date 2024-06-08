@@ -8,6 +8,8 @@
 - 💞️ I’m looking to collaborate on open-source projects with interest in Finance, AI/ML as well as blockchains.
 - One of my new todo is to learn Go, as I want to know more about network servers 😋.
 - 📫 How to reach me pujantamang92@gmail.com
+- Check my website: https://pujanthing.com.np/
+- Connect me on LinkedIn: https://uk.linkedin.com/in/pujan-thing-46ba4a1bb
 
 <!---
 LINSANITY03/LINSANITY03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
