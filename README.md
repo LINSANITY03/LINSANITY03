@@ -5,7 +5,8 @@
 - 👋 Hi, I’m @LINSANITY03 aka Pujan Thing.
 - 👀 I’m interested in creating software having real world impact and knowing how things work.
 - 💞️ I’m looking to collaborate on open-source projects with interest in Finance, AI/ML as well as blockchains.
-- One of my new todo is to learn Go, as I want to know more about network servers 😋.
+- One of my recent project i working on is a healthcare logistics tool that connects doctors’ disease reports with supply chain management, ensuring timely emergency response and resource distribution.
+- In my free time i love reading about theoretical physics, DSA and system design.
 - 📫 How to reach me pujantamang92@gmail.com
 - Check my website: https://pujanthing.com.np/
 - Connect me on LinkedIn: https://uk.linkedin.com/in/pujan-thing-46ba4a1bb
