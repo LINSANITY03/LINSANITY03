@@ -6,6 +6,7 @@
 - 👀 I’m interested in creating software having real world impact and knowing how things work.
 - 💞️ I’m looking to collaborate on open-source projects with interest in Finance, AI/ML as well as blockchains.
 - One of my recent project i am working on is a healthcare logistics tool that connects doctors’ disease reports with supply chain management, ensuring timely emergency response and resource distribution.
+- Recently, I am working on a volunteer role to provide AI powered Training Platform.
 - In my free time i love reading about theoretical physics, DSA and system design.
 - 📫 How to reach me pujantamang92@gmail.com
 - Check my website: https://pujanthing.com.np/
